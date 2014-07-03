@@ -4,7 +4,7 @@
   <title><![CDATA[Orion Blog]]></title>
   <link href="http://SteveXiSong.github.io/atom.xml" rel="self"/>
   <link href="http://SteveXiSong.github.io/"/>
-  <updated>2014-07-03T17:44:51-05:00</updated>
+  <updated>2014-07-03T17:45:32-05:00</updated>
   <id>http://SteveXiSong.github.io/</id>
   <author>
     <name><![CDATA[Steve X. Song]]></name>
@@ -18,14 +18,16 @@
     <link href="http://SteveXiSong.github.io/blog/2014/07/03/about-steve/"/>
     <updated>2014-07-03T16:53:31-05:00</updated>
     <id>http://SteveXiSong.github.io/blog/2014/07/03/about-steve</id>
-    <content type="html"><![CDATA[<p>English Name(Unofficial): Steve Song
-Chinese Name(Official):   Xi    Song</p>
+    <content type="html"><![CDATA[<p>English Name(Unofficial): Steve Song</p>
+
+<p>Chinese Name(Official):   Xi    Song</p>
 
 <p>Education Background:</p>
 
 <pre><code>  Master Degree: 2013-2015(expected) 
   University of Wisconsin-Madison, WI, USA
   Computer Engineering 
+
   Bachelor Degree: 2009-2013
   Beihang University (B.U.A.A), Beijing, China
   Optic-Electronics Information Engineering
