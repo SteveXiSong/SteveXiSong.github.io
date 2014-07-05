@@ -4,7 +4,7 @@
   <title><![CDATA[Orion Blog]]></title>
   <link href="http://SteveXiSong.github.io/atom.xml" rel="self"/>
   <link href="http://SteveXiSong.github.io/"/>
-  <updated>2014-07-03T17:57:50-05:00</updated>
+  <updated>2014-07-05T17:08:02-05:00</updated>
   <id>http://SteveXiSong.github.io/</id>
   <author>
     <name><![CDATA[Steve X. Song]]></name>
@@ -14,13 +14,32 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Some Useful References of GPU]]></title>
+    <link href="http://SteveXiSong.github.io/blog/2014/07/05/some-useful-references-of-gpu/"/>
+    <updated>2014-07-05T17:01:14-05:00</updated>
+    <id>http://SteveXiSong.github.io/blog/2014/07/05/some-useful-references-of-gpu</id>
+    <content type="html"><![CDATA[<p>Recently, I am learning the gpgpu-sim architecture. There are some terms that confused me for a while.
+Here I find some useful references that talk about the GPU basics in a relatives easy-understand way.
+Achive and share.</p>
+
+<p>you can <a href="http://SteveXiSong.github.io/assets/Introduction-to-GPUs.pdf">get the PDF</a> directly.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[About Steve]]></title>
     <link href="http://SteveXiSong.github.io/blog/2014/07/03/about-steve/"/>
     <updated>2014-07-03T16:53:31-05:00</updated>
     <id>http://SteveXiSong.github.io/blog/2014/07/03/about-steve</id>
-    <content type="html"><![CDATA[<p>English Name(Unofficial): Steve Song</p>
+    <content type="html"><![CDATA[<p>
+English Name(Unofficial): Steve Song 
+</p>
 
-<p>Chinese Name(Official):   Xi    Song</p>
+
+<p>
+Chinese Name(Official):   Xi    Song
+</p>
+
 
 <p>Education Background:</p>
 
@@ -34,6 +53,9 @@
 </code></pre>
 
 <ul>
+   <li>
+   <a href="http://SteveXiSong.github.io/blog/2014/07/05/some-useful-references-of-gpu/">Some useful references of GPU</a>
+   </li>
    <li>
    <a href="http://SteveXiSong.github.io/blog/2014/07/03/about-steve/">about Steve</a>
    </li>
