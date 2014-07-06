@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Orion Blog]]></title>
+  <title><![CDATA[Orion]]></title>
   <link href="http://SteveXiSong.github.io/atom.xml" rel="self"/>
   <link href="http://SteveXiSong.github.io/"/>
-  <updated>2014-07-05T17:29:57-05:00</updated>
+  <updated>2014-07-06T00:56:35-05:00</updated>
   <id>http://SteveXiSong.github.io/</id>
   <author>
     <name><![CDATA[Steve X. Song]]></name>
-    
+    <email><![CDATA[stevesong.wisc@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
